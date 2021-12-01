@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OurJUET</string>
+    <string name="enrollment_number">Enrollment Number</string>
+    <string name="password">Password</string>
+    <string name="dd_mm_yyyy">DD/MM/YYYY</string>
+    <string name="welcome_to_our_juet">Welcome to Our JUET</string>
+    <string name="begin">Begin</string>
+    <string-array name="loginSpinner">
+        <item>Employee</item>
+        <item>Student</item>
+    </string-array>
+</resources>
